@@ -1,0 +1,152 @@
+.hbday {
+    width: 100%;
+    height: 100%;
+    /*max-height: 100%;*/
+    padding: 0px;
+    background-image: url("image.jpg");
+    background-size:100% 100%;
+    background-repeat: no-repeat;
+  }
+
+  .shade{
+    background-color: black;
+    top: 0;
+    display: block;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    text-decoration: none;
+    text-align: center;
+    height: 50px;;
+    
+    
+  }
+  .Main {
+    text-align: center;
+    color: white;
+    text-decoration: none;
+    margin-top: 0px;
+    
+
+  }
+
+
+.childhood {
+    width: 100%;
+    height: 100%;
+    max-height: 100%;
+    padding: 0px;
+    background-image: url("childhood.jpg");
+    background-size:100% 100%;
+    background-repeat: no-repeat;
+
+}
+
+.withmother {
+    width: 100%;
+    height: 100%;
+    /*max-height: 100%;*/
+    padding: 0px;
+    background-image: url("withmother.jpg");
+    background-size:100% 100%;
+    background-repeat: no-repeat;
+
+}
+.withbrother {
+    width: 100%;
+    height: 100%;
+    /*max-height: 100%;*/
+    padding: 0px;
+    background-image: url("withbrother.jpg");
+    background-size:100% 100%;
+    background-repeat: no-repeat;
+}
+
+.withfather {
+  width: 100%;
+  height: 100%;
+  /*max-height: 100%;*/
+  padding: 0px;
+  background-image: url("withfather.jpg");
+  background-size:100% 100%;
+  background-repeat: no-repeat;
+  top: 0;
+
+}
+.withfamily {
+  width: 100%;
+  height: 100%;
+  padding: 0px;
+  background-image: url("with-family.jpg");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  top: 0;
+}
+
+.final {
+  width: 100%;
+  height: 100%;
+  padding: 0px;
+  background-image: url("final.jpg");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  top: 0;
+
+}
+
+  html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+  
+  body{
+    color:white;
+      margin: 0;
+      border: 0;.
+      text-align: center;
+  }
+
+
+
+/*
+body, html {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    font: 400 15px/1.8 "Lato", sans-serif;
+    color: #777;
+  }
+  
+  .bgimg-1, .bgimg-2, .bgimg-3 {
+    position: relative;
+    
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: none;
+    width: 100%;
+  
+  }
+  .bgimg-1 {
+    background-image: url("index.jpg");
+    height: 100%;
+    width: 100%;
+  }
+  
+  .caption {
+    position: absolute;
+    left: 0;
+    top: 50%;
+    width: 100%;
+    text-align: center;
+    color: #000;
+  }
+  
+
+  
+  h3 {
+    letter-spacing: 5px;
+    text-transform: uppercase;
+    font: 20px "Lato", sans-serif;
+    color: #111;
+  }*/
+  
